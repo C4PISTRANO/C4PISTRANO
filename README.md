@@ -13,7 +13,8 @@
 <br> 
 
 
-
+<p align="center">
 <a href="https://www.linkedin.com/rivaildoferreira" alt="Linkedin"> 
 <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/rivaildoferreira"/> 
 </a>
+</p>
