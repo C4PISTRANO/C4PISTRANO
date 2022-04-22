@@ -3,13 +3,18 @@
 <p align="left"> 
 👋 Olá, meu nome é <strong>Rivaildo Ferreira</strong>.</p>
 <p aling="left">
-:milky_way: Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>. </p> 
+
+<p align="left">
+:milky_way: Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>. 
+</p> 
 
 <p align="left"> 
-:game_die: Habilidades: <strong>HTML, CSS e JavaScript.</strong> </p> 
+:chess_pawn: Habilidades: <strong>HTML, CSS e JavaScript.</strong> 
+</p> 
 
 <p align="left"> 
-:keyboard: Ferramentas: <strong>VS Code, Eclipse e GitHub.</strong> </p> 
+:keyboard: Ferramentas: <strong>VS Code, Eclipse e GitHub.</strong> 
+</p> 
 
 <br> 
 <p align="center">
