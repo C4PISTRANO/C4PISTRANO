@@ -1,4 +1,6 @@
+<a href="https://github.com/F3RREIRA">
 <img alt="LOGO RF RIVAILDO F3RREIRA" title="rivaildo ferreira" src="https://github.com/F3RREIRA/Portifolio/blob/main/github/logo.png" width="500px"/>
+</a>
 
 <p align="left"> 
 👋 Olá, meu nome é <strong>Rivaildo Ferreira</strong>.</p>
