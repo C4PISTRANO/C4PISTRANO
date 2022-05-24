@@ -2,6 +2,7 @@
 <img alt="LOGO RF RIVAILDO F3RREIRA" title="rivaildo ferreira" src="https://github.com/F3RREIRA/Portifolio/blob/main/github/logo.png" width="500px"/>
 </a>
 
+<h3>
 <p align="left"> 
 👋 Olá, meu nome é <strong>Rivaildo Ferreira</strong>.</p>
 <p aling="left">
@@ -24,3 +25,4 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rivaildoferreira"/> 
 </a>
 </p>
+</h3>
