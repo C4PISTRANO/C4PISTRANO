@@ -1,21 +1,25 @@
+<h3>
+<p align="center"> 
+👋 Olá, meu nome é:
+</h3>
+
+<p align="center">
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="rivaildo ferreira" src="https://github.com/F3RREIRA/Portifolio/blob/main/github/logo.png" width="500px"/>
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="rivaildo ferreira" src="https://github.com/F3RREIRA/Portifolio/blob/main/github/logo.png" width="500px" align="center"/>
 </a>
 
-<h3>
-<p align="left"> 
-👋 Olá, meu nome é <strong>Rivaildo Ferreira</strong>.</p>
-<p aling="left">
+</h3>
 
-<p align="left">
+<h3>
+<p align="center">
 :milky_way: Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>. 
 </p> 
 
-<p align="left"> 
+<p align="center"> 
 :chess_pawn: Habilidades: <strong>HTML, CSS e JavaScript.</strong> 
 </p> 
 
-<p align="left"> 
+<p align="center"> 
 :keyboard: Ferramentas: <strong>VS Code, Eclipse e GitHub.</strong> 
 </p> 
 
