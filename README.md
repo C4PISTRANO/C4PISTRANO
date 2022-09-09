@@ -18,9 +18,13 @@
 <h3>
   <p>:milky_way: Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.</p>
   
+  <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p> 
+
+  </p>:school: Faculdade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
+
   <p>:chess_pawn: Habilidades: <strong>HTML, CSS e JavaScript</strong>.</p>
   
-  <p>:keyboard: Ferramentas: <strong>VS Code, Eclipse e GitHub</strong>.</p>
+  <p>:keyboard: Ferramentas: <strong>Visual Studio Code, Eclipse IDE, Figma e GitHub</strong>.</p>
 <br> 
 <br> 
 
