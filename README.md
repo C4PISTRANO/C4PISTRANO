@@ -12,7 +12,7 @@
 </a>
 
 </h3>
-<br>
+
 
 <h3>
   <p>:milky_way: Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.</p>
