@@ -10,19 +10,17 @@
 </p>
 </a>
 
-<h3>
-  <p>:milky_way: Perfil: Sou Desenvolvedor Front-end e UI Designer.</p>
+<h2>
+  <p>:milky_way: Sou Desenvolvedor Front-end e UI Designer</p></h2>
 
-  <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p> 
+  <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
 
-  </p>:school: Faculdade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
+  </p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
   
   <p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
 
 <br>
-<br>
-
-  <p>:keyboard: TECNOLOGIAS E FERRAMENTAS </P>
+<h2><p>:keyboard: FERRAMENTAS </P></h2>
 
 :symbols: Linguagens: 
 HTML, CSS, JavaScript, TypeScript, C, Java, PHP, Python
@@ -31,7 +29,7 @@ HTML, CSS, JavaScript, TypeScript, C, Java, PHP, Python
 Node js, Next js, React Native, Bootstrap, React, Spring, Django
  
 :computer: IDEs: 
-Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg , 
+Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg
 
 :art: Designs:
 Canva, Figma, Paint.NET, Gimp, IcoFX, AniFX, Photoshop, CorelDraw
@@ -55,10 +53,9 @@ Proshow Producer, Kapwing, Windows Movie Maker, After Effects
 Áudios:
 Audacity
 
-:iphone: Contatos:
-Linkedin, Hotmail, Gmail, 
+<br>
+<h2>:iphone: Contato:</h2> 
 
-<br> 
 <br> 
 
 <p align="center">
