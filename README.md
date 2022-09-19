@@ -27,10 +27,10 @@
 :symbols: Linguagens: 
 HTML, CSS, JavaScript, TypeScript, C, Java, PHP, Python
 
-:bridge_at_night: Frameworks:
+ 📑 Frameworks:
 Node js, Next js, React Native, Bootstrap, React, Spring, Django
  
-:capital_abcd: IDEs: 
+:computer: IDEs: 
 Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg , 
 
 :art: Designs:
@@ -42,16 +42,17 @@ MariaDB, PostgreSQL, MySQL
 :bar_chart: Diagramas:
 Draw.io, Lucidchart
 
-:computer: Administração:
+📇 Administração:
 Word, PowerPoint, Excel, Outlook, Teams, Meet, Zoom, One Drive, Google Drive
 
-:roller_coaster: 3Ds:
+🗿 3Ds:
 Zmodeler, Blender, 3D Builder
 
-:video_camera: Vídeos:
+🎞️ Vídeos:
 Proshow Producer, Kapwing, Windows Movie Maker, After Effects
 
-:speaker: Áudios:
+🔉
+Áudios:
 Audacity
 
 :iphone: Contatos:
