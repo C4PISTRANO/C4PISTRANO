@@ -3,7 +3,6 @@
 👋 Olá, meu nome é:
 </p>
 </h3>
-<br>
 
 <p>
 <a href="https://github.com/F3RREIRA">
@@ -11,19 +10,53 @@
 </p>
 </a>
 
-</h3>
-
-
 <h3>
-  <p>:milky_way: Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.</p>
-  
+  <p>:milky_way: Perfil: Sou Desenvolvedor Front-end e UI Designer.</p>
+
   <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p> 
 
   </p>:school: Faculdade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
-
-  <p>:chess_pawn: Habilidades: <strong>HTML, CSS e JavaScript</strong>.</p>
   
-  <p>:keyboard: Ferramentas: <strong>Visual Studio Code, Eclipse IDE, Figma e GitHub</strong>.</p>
+  <p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
+
+<br>
+<br>
+
+  <p>:keyboard: TECNOLOGIAS E FERRAMENTAS </P>
+
+:symbols: Linguagens: 
+HTML, CSS, JavaScript, TypeScript, C, Java, PHP, Python
+
+:bridge_at_night: Frameworks:
+Node js, Next js, React Native, Bootstrap, React, Spring, Django
+ 
+:capital_abcd: IDEs: 
+Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg , 
+
+:art: Designs:
+Canva, Figma, Paint.NET, Gimp, IcoFX, AniFX, Photoshop, CorelDraw
+
+:information_source: Bancos de dados:
+MariaDB, PostgreSQL, MySQL
+
+:bar_chart: Diagramas:
+Draw.io, Lucidchart
+
+:computer: Administração:
+Word, PowerPoint, Excel, Outlook, Teams, Meet, Zoom, One Drive, Google Drive
+
+:roller_coaster: 3Ds:
+Zmodeler, Blender, 3D Builder
+
+:video_camera: Vídeos:
+Proshow Producer, Kapwing, Windows Movie Maker, After Effects
+
+:speaker: Áudios:
+Audacity
+
+:iphone: Contatos:
+Linkedin, Hotmail, Gmail, 
+
 <br> 
 <br> 
 
@@ -31,5 +64,14 @@
 <a href="https://www.linkedin.com/in/rivaildoferreira" alt="Linkedin"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rivaildoferreira"/> 
 </a>
+
+<!--<a href="https://www.linkedin.com/in/rivaildoferreira" alt="Hotmail"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=hotmail&logoColor=white&link=https://www.linkedin.com/in/rivaildoferreira"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rivaildoferreira" alt="Gmail"> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/rivaildoferreira"/>
+</a>-->
+
 </p>
 </h3>
