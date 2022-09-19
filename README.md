@@ -1,6 +1,6 @@
 <h3>
 <p> 
-👋 Olá, meu nome é:
+✌️ Olá, meu nome é:
 </p>
 </h3>
 
