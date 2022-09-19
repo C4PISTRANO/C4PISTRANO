@@ -1,8 +1,6 @@
-<h3>
-<p> 
+<h2>
 ✌️ Olá, meu nome é:
-</p>
-</h3>
+</h2>
 
 <p>
 <a href="https://github.com/F3RREIRA">
@@ -10,17 +8,16 @@
 </p>
 </a>
 
-<h2>
-  <p>:milky_way: Sou Desenvolvedor Front-end e UI Designer</p></h2>
+<h2>:milky_way: Sou Desenvolvedor Front-end e UI Designer</h2>
 
-  <p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
+<p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
 
-  </p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
+<p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
   
-  <p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
+<p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
 
 <br>
-<h2><p>:keyboard: FERRAMENTAS </P></h2>
+<h2>:keyboard: FERRAMENTAS</h2>
 
 :symbols: Linguagens: 
 HTML, CSS, JavaScript, TypeScript, C, Java, PHP, Python
@@ -36,6 +33,9 @@ Canva, Figma, Paint.NET, Gimp, IcoFX, AniFX, Photoshop, CorelDraw
 
 :information_source: Bancos de dados:
 MariaDB, PostgreSQL, MySQL
+
+:cloud: Nuvem:
+AWS, Azure
 
 :bar_chart: Diagramas:
 Draw.io, Lucidchart
@@ -54,9 +54,8 @@ Proshow Producer, Kapwing, Windows Movie Maker, After Effects
 Audacity
 
 <br>
-<h2>:iphone: Contato:</h2> 
+<h2> :iphone: CONTATO</h2> 
 
-<br> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rivaildoferreira" alt="Linkedin"> 
