@@ -41,7 +41,7 @@ AWS, Azure
 Draw.io, Lucidchart
 
 📇 Administração:
-Word, PowerPoint, Excel, Outlook, Teams, Meet, Zoom, One Drive, Google Drive
+Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive
 
 🗿 3Ds:
 Zmodeler, Blender, 3D Builder
