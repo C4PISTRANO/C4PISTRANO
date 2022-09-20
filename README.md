@@ -29,7 +29,7 @@ Node js, Next js, React Native, Bootstrap, React, Spring, Django
 Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg
 
 :art: Designs:
-Canva, Figma, Paint.NET, Gimp, IcoFX, AniFX, Photoshop, CorelDraw
+Paint.NET, Gimp, IcoFX, AniFX, Canva, Figma, Photoshop, CorelDraw
 
 :information_source: Bancos de dados:
 MariaDB, PostgreSQL, MySQL
@@ -41,13 +41,13 @@ AWS, Azure
 Draw.io, Lucidchart
 
 📇 Administração:
-Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive
+Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive, Power BI
 
 🗿 3Ds:
 Zmodeler, Blender, 3D Builder
 
 🎞️ Vídeos:
-Proshow Producer, Kapwing, Windows Movie Maker, After Effects
+Proshow Producer, Kapwing, Movie Maker, After Effects
 
 🔉
 Áudios:
