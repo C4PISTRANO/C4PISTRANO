@@ -21,35 +21,33 @@
 
 :symbols: Linguagens: 
 <p>
-<a href="https://github.com/F3RREIRA">
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
 <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoHTML.png" height="50px"/>
 </a>
-<a href="https://github.com/F3RREIRA">
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
 <img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/F3RREIRA/Github/blob/main/LogoCSS.png" height="50px"/>
 </a>
-<a href="https://github.com/F3RREIRA">
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
 <img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/F3RREIRA/Github/blob/main/LogoJavascript1.png" height="50px"/>
 </a>
-<a href="https://github.com/F3RREIRA">
+<a href="https://www.devmedia.com.br/introducao-ao-typescript/36729">
 <img alt="Logo Linguagem Typescript" title="Typescript" src="https://github.com/F3RREIRA/Github/blob/main/LogoTypescript.png" height="50px"/>
 </a>
-<a href="https://github.com/F3RREIRA">
+<a href="https://www.devmedia.com.br/historia-do-c-c/24029#:~:text=A%20linguagem%20C%20%C3%A9%20o,a%20evolu%C3%A7%C3%A3o%20da%20linguagem%20B.">
 <img alt="Logo Linguagem C" title="C" src="https://github.com/F3RREIRA/Github/blob/main/LogoC.png" height="50px"/>
 </a>
-<a href="https://github.com/F3RREIRA">
+<a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
 <img alt="Logo Linguagem Java" title="Java" src="https://github.com/F3RREIRA/Github/blob/main/LogoJava.png" height="50px"/>
 </a>
-<a href="https://github.com/F3RREIRA">
+<a href="https://www.php.net/manual/pt_BR/intro-whatis.php">
 <img alt="Logo Linguagem PHP" title="PHP" src="https://github.com/F3RREIRA/Github/blob/main/LogoPHP.png" height="50px"/>
 </a>
-<a href="https://github.com/F3RREIRA">
+<a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
 <img alt="Logo Linguagem Python" title="Python" src="https://github.com/F3RREIRA/Github/blob/main/LogoPython.png" height="50px"/>
 </a>
 </p>
 
-HTML, CSS, JavaScript, TypeScript, C, Java, PHP, Python
-
- 📑 Frameworks:
+:bookmark_tabs: Frameworks:
 Node js, Next js, React Native, Bootstrap, React, Spring, Django
  
 :computer: IDEs: 
@@ -67,17 +65,16 @@ AWS, Azure
 :bar_chart: Diagramas:
 Draw.io, Lucidchart
 
-📇 Administração:
+:man_office_worker: Administração:
 Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive, Power BI
 
-🗿 3Ds:
+:moyai: 3Ds:
 Zmodeler, Blender, 3D Builder
 
-🎞️ Vídeos:
+:film_strip: Vídeos:
 Proshow Producer, Kapwing, Movie Maker, After Effects
 
-🔉
-Áudios:
+:sound: Áudios:
 Audacity
 
 <br>
