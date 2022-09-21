@@ -34,7 +34,7 @@
 <img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoTypescript.png" width="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoC.png" width="50px"/>
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoC.png" height="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
 <img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoJava.png" width="50px"/>
