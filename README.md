@@ -22,28 +22,28 @@
 :symbols: Linguagens: 
 <p>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoHTML.png" height="50px"/>
+<img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoHTML.png" height="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoCSS.png" height="50px"/>
+<img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/F3RREIRA/Github/blob/main/LogoCSS.png" height="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoJavascript1.png" height="50px"/>
+<img alt="Logo Linguagem Javascript" title="Javascript" src="https://github.com/F3RREIRA/Github/blob/main/LogoJavascript1.png" height="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoTypescript.png" height="50px"/>
+<img alt="Logo Linguagem Typescript" title="Typescript" src="https://github.com/F3RREIRA/Github/blob/main/LogoTypescript.png" height="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoC.png" height="50px"/>
+<img alt="Logo Linguagem C" title="C" src="https://github.com/F3RREIRA/Github/blob/main/LogoC.png" height="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoJava.png" height="50px"/>
+<img alt="Logo Linguagem Java" title="Java" src="https://github.com/F3RREIRA/Github/blob/main/LogoJava.png" height="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoPHP.png" height="50px"/>
+<img alt="Logo Linguagem PHP" title="PHP" src="https://github.com/F3RREIRA/Github/blob/main/LogoPHP.png" height="50px"/>
 </a>
 <a href="https://github.com/F3RREIRA">
-<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoPython.png" height="50px"/>
+<img alt="Logo Linguagem Python" title="Python" src="https://github.com/F3RREIRA/Github/blob/main/LogoPython.png" height="50px"/>
 </a>
 </p>
 
