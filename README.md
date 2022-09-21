@@ -24,10 +24,27 @@
 <a href="https://github.com/F3RREIRA">
 <img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoHTML.png" width="50px"/>
 </a>
-
-
-
-
+<a href="https://github.com/F3RREIRA">
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoCSS.png" width="50px"/>
+</a>
+<a href="https://github.com/F3RREIRA">
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoJavascript.png" width="50px"/>
+</a>
+<a href="https://github.com/F3RREIRA">
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoTypescript.png" width="50px"/>
+</a>
+<a href="https://github.com/F3RREIRA">
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoC.png" width="50px"/>
+</a>
+<a href="https://github.com/F3RREIRA">
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoJava.png" width="50px"/>
+</a>
+<a href="https://github.com/F3RREIRA">
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoPHP.png" width="50px"/>
+</a>
+<a href="https://github.com/F3RREIRA">
+<img alt="LOGO RF RIVAILDO F3RREIRA" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoPython.png" width="50px"/>
+</a>
 </p>
 
 HTML, CSS, JavaScript, TypeScript, C, Java, PHP, Python
