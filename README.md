@@ -1,5 +1,5 @@
 <h2>
-✌️ Olá, meu nome é:
+✌️ Olá, meu nome é
 </h2>
 
 <p>
@@ -17,7 +17,7 @@
 <p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
 
 <br>
-<h2>:keyboard: Estudando</h2>
+<h2>:keyboard: Ferramentas</h2>
 
 :symbols: Linguagens: 
 <p>
