@@ -17,7 +17,7 @@
 <p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
 
 <br>
-<h2>:keyboard: FERRAMENTAS</h2>
+<h2>:keyboard: Estudando</h2>
 
 :symbols: Linguagens: 
 <p>
@@ -78,7 +78,7 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 Audacity
 
 <br>
-<h2> :iphone: CONTATO</h2> 
+<h2> :iphone: Contato</h2> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rivaildoferreira" alt="Linkedin"> 
