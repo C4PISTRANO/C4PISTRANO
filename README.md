@@ -51,7 +51,7 @@
 Node js, Next js, React Native, Bootstrap, React, Spring, Django
  
 :computer: IDEs: 
-Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg
+Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg, IntelliJ
 
 :art: Designs:
 Paint.NET, Gimp, IcoFX, AniFX, Canva, Figma, Photoshop, CorelDraw
