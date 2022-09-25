@@ -103,10 +103,10 @@ Audacity
 <h2>:rocket: Plataformas</h2>
 <p>
 <a href="https://www.alura.com.br/">
-<img alt="Logo Alura" title="Alura" src="https://github.com/F3RREIRA/Github/blob/main/Alura.png" height="50px"/>
+<img alt="Logo Alura" title="Alura" src="https://github.com/F3RREIRA/Github/blob/main/Alura.png" height="25px"/>
 </a>
 <a href="https://www.rocketseat.com.br/">
-<img alt="Logo Rocketseat" title="Rocketseat" src="https://github.com/F3RREIRA/Github/blob/main/Rocketseat.png" height="50px"/>
+<img alt="Logo Rocketseat" title="Rocketseat" src="https://github.com/F3RREIRA/Github/blob/main/Rocketseat.png" height="25px"/>
 </a>
 </p>
 
