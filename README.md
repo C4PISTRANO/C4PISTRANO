@@ -100,6 +100,17 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 Audacity
 
 <br>
+<h2>:rocket: Plataformas</h2>
+<p>
+<a href="https://www.alura.com.br/">
+<img alt="Logo Alura" title="Alura" src="https://github.com/F3RREIRA/Github/blob/main/Alura.png" height="50px"/>
+</a>
+<a href="https://www.rocketseat.com.br/">
+<img alt="Logo Rocketseat" title="Rocketseat" src="https://github.com/F3RREIRA/Github/blob/main/Rocketseat.png" height="50px"/>
+</a>
+</p>
+
+<br>
 <h2> :iphone: Contato</h2> 
 
 <p align="center">
