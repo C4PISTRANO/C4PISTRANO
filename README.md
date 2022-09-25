@@ -48,8 +48,30 @@
 </p>
 
 :bookmark_tabs: Frameworks:
-Node js, Next js, React Native, Bootstrap, React, Spring, Django
- 
+<p>
+<a href="https://www.devmedia.com.br/introducao-ao-typescript/36729">
+<img alt="Logo Framework Bootstrap" title="Bootstrap" src="https://github.com/F3RREIRA/Github/blob/main/LogoBootstrap.png" height="50px"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
+<img alt="Logo Framework Node.js" title="Node.js" src="https://github.com/F3RREIRA/Github/blob/main/LogoNodeJS.png" height="50px"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
+<img alt="Logo Framework Next.js" title="Next.js" src="https://github.com/F3RREIRA/Github/blob/main/LogoNextJS.png" height="50px"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+<img alt="Logo Framework React Native" title="React Native" src="https://github.com/F3RREIRA/Github/blob/main/LogoReactNative.png" height="50px"/>
+</a>
+<a href="https://www.devmedia.com.br/historia-do-c-c/24029#:~:text=A%20linguagem%20C%20%C3%A9%20o,a%20evolu%C3%A7%C3%A3o%20da%20linguagem%20B.">
+<img alt="Logo Framework React" title="React" src="https://github.com/F3RREIRA/Github/blob/main/LogoReact.png" height="50px"/>
+</a>
+<a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
+<img alt="Logo Framework Spring" title="Spring" src="https://github.com/F3RREIRA/Github/blob/main/LogoSpring.png" height="50px"/>
+</a>
+<a href="https://www.php.net/manual/pt_BR/intro-whatis.php">
+<img alt="Logo Framework Django" title="Django" src="https://github.com/F3RREIRA/Github/blob/main/LogoDjango.png" height="50px"/>
+</a>
+</p>
+
 :computer: IDEs: 
 Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg, IntelliJ
 
