@@ -97,7 +97,11 @@ Zmodeler, Blender, 3D Builder
 Proshow Producer, Kapwing, Movie Maker, After Effects
 
 :sound: Áudios:
-Audacity
+<p>
+<a href="https://www.audacityteam.org/">
+<img alt="Logo Audacity" title="Audacity" src="https://github.com/F3RREIRA/Github/blob/main/LogoAudacity.png" height="50px"/>
+</a>
+</p>
 
 <br>
 <h2>:rocket: Plataformas</h2>
