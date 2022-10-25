@@ -96,7 +96,7 @@ Zmodeler, Blender, 3D Builder
 :film_strip: Vídeos:
 Proshow Producer, Kapwing, Movie Maker, After Effects
 
-:sound: Áudios:
+:sound: Áudio:
 <p>
 <a href="https://www.audacityteam.org/">
 <img alt="Logo Audacity" title="Audacity" src="https://github.com/F3RREIRA/Github/blob/main/LogoAudacity.png" height="50px"/>
