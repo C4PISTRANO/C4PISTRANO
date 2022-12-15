@@ -19,11 +19,11 @@
 <br>
 <hr>
 <p align="center">
-  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#-iphone-contato">Contato</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#-iphone-contato">Contato</a>&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 
