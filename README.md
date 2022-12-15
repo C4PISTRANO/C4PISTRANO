@@ -3,7 +3,7 @@
   <a href="https://github.com/F3RREIRA#brazil-im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#keyboard-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#earth_americas-publications-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#rocket-plataformas">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#rocket-platforms">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#-iphone-contato">Contacts</a>&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
