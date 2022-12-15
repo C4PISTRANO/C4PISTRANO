@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/F3RREIRA#%EF%B8%8F-hi-my-name-is"><b>Home</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#milky_way-sou-desenvolvedor-front-end-e-ui-designer">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#brazil-im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#rocket-plataformas">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
