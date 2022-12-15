@@ -1,3 +1,13 @@
+<p align="center">
+  <a href=""><b>Início</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#-iphone-contato">Contato</a>&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
+
 <h2>
 ✌️ Olá, meu nome é
 </h2>
@@ -16,16 +26,6 @@
   
 <p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
 
-<br>
-<hr>
-<p align="center">
-  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#-iphone-contato">Contato</a>&nbsp;&nbsp;&nbsp;
-</p>
-<hr>
 
 <h2>:keyboard: Ferramentas</h2>
 
@@ -166,3 +166,15 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
 
 </p>
 </h3>
+
+
+<br>
+<hr>
+<p align="center">
+  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Início</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href=""><b>Contato</b></a>&nbsp;&nbsp;&nbsp;
+</p>
