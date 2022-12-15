@@ -2,7 +2,7 @@
   <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9"><b>Home</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#milky_way-sou-desenvolvedor-front-end-e-ui-designer">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Deploys</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#rocket-plataformas">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#-iphone-contato">Contacts</a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -18,7 +18,7 @@
 </p>
 </a>
 
-<h2>:milky_way: I'm Front-end Developer and UI Designer from Brazil :brazil: </h2>
+<h2>:brazil: I'm Front-end Developer and UI Designer from Brazil. </h2>
 
 <p>:books: Studying: Superior of Technology in Systems Analysis and Development.</p>
 
@@ -113,7 +113,7 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 </a>
 </p>
 
-<h2>:earth_americas: Deploys </h2>
+<h2>:earth_americas: Publications </h2>
 
 To access and test the functionalities of the created pages, just click on the corresponding image:
 <p align="center">
@@ -150,7 +150,7 @@ To access and test the functionalities of the created pages, just click on the c
 <br>
 <h2> :iphone: Contacts</h2> 
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/rivaildoferreira" alt="Linkedin"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rivaildoferreira"/> 
 </a>
@@ -173,7 +173,7 @@ To access and test the functionalities of the created pages, just click on the c
   <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#milky_way-sou-desenvolvedor-front-end-e-ui-designer">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Deploys</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#rocket-plataformas">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#-iphone-contato"><b>Contacts</b></a>&nbsp;&nbsp;&nbsp;
 </p>
