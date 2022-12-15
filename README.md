@@ -17,6 +17,16 @@
 <p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
 
 <br>
+<hr>
+<p align="center">
+  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA/F3RREIRA/edit/main/README.md#-iphone-contato">Contato</a>&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
+
 <h2>:keyboard: Ferramentas</h2>
 
 :symbols: Linguagens: 
