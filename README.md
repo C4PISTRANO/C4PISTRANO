@@ -103,7 +103,7 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 </a>
 </p>
 
-## 🌎 Publicações
+<h2> 🌎 Publicações </h2>
 
 Para acessar e testar as funcionalidades das páginas criadas, basta clicar na imagem correspondente:
 
