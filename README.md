@@ -170,10 +170,10 @@ To access and test the functionalities of the created pages, just click on the c
 <br>
 <hr>
 <p align="center">
-  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#milky_way-sou-desenvolvedor-front-end-e-ui-designer">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#rocket-plataformas">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#-iphone-contato"><b>Contacts</b></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#%EF%B8%8F-hi-my-name-is">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#brazil-im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#keyboard-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#earth_americas-publications-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#rocket-platforms">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#-iphone-contacts"><b>Contacts</b></a>&nbsp;&nbsp;&nbsp;
 </p>
