@@ -7,7 +7,6 @@
   <a href="https://github.com/F3RREIRA#-iphone-contato">Contato</a>&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
-<hr>
 
 <h2>
 ✌️ Olá, meu nome é
