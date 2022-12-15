@@ -1,35 +1,35 @@
 <p align="center">
-  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9"><b>Início</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#milky_way-sou-desenvolvedor-front-end-e-ui-designer">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#-iphone-contato">Contato</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9"><b>Home</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#milky_way-sou-desenvolvedor-front-end-e-ui-designer">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Deploys</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#rocket-plataformas">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#-iphone-contato">Contacts</a>&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 
 <h2>
-✌️ Olá, meu nome é
+✌️ Hi, my name is
 </h2>
 
-<p>
+<p align=center>
 <a href="https://github.com/F3RREIRA">
 <img alt="LOGO RF RIVAILDO F3RREIRA" title="rivaildo ferreira" src="https://github.com/F3RREIRA/Portifolio/blob/main/github/logo.png" width="500px" align="center"/>
 </p>
 </a>
 
-<h2>:milky_way: Sou Desenvolvedor Front-end e UI Designer</h2>
+<h2>:milky_way: I'm Front-end Developer and UI Designer from Brazil :brazil: </h2>
 
-<p>:books: Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).</p>
+<p>:books: Studying: Superior of Technology in Systems Analysis and Development.</p>
 
-<p>:school: Universidade: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.</p>
+<p>:school: College: Federal Institute of Education, Science and Technology of São Paulo - IFSP.</p>
   
-<p>:chess_pawn: Habilidades: Lógica de programação, Gestão de Projetos e Criatividade.</p>
+<p>:chess_pawn: Skills: Programming Logic, Project Management and Creativity.</p>
 
 
-<h2>:keyboard: Ferramentas</h2>
+<h2>:keyboard: Tools</h2>
 
-:symbols: Linguagens: 
+:symbols: Languages: 
 <p>
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
 <img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/F3RREIRA/Github/blob/main/LogoHTML.png" height="50px"/>
@@ -88,35 +88,34 @@ Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg, IntelliJ
 :art: Designs:
 Paint.NET, Gimp, IcoFX, AniFX, Canva, Figma, Photoshop, CorelDraw
 
-:information_source: Bancos de dados:
+:information_source: Database:
 MariaDB, PostgreSQL, MySQL
 
-:cloud: Nuvem:
+:cloud: Cloud:
 AWS, Azure
 
-:bar_chart: Diagramas:
+:bar_chart: Diagrams:
 Draw.io, Lucidchart
 
-:man_office_worker: Administração:
+:man_office_worker: Administration:
 Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive, Power BI
 
 :moyai: 3Ds:
 Zmodeler, Blender, 3D Builder
 
-:film_strip: Vídeos:
+:film_strip: Video:
 Proshow Producer, Kapwing, Movie Maker, After Effects
 
-:sound: Áudio:
+:sound: Audio:
 <p>
 <a href="https://www.audacityteam.org/">
 <img alt="Logo Audacity" title="Audacity" src="https://github.com/F3RREIRA/Github/blob/main/LogoAudacity.png" height="50px"/>
 </a>
 </p>
 
-<h2> 🌎 Publicações </h2>
+<h2>:earth_americas: Deploys </h2>
 
-Para acessar e testar as funcionalidades das páginas criadas, basta clicar na imagem correspondente:
-
+To access and test the functionalities of the created pages, just click on the corresponding image:
 <p align="center">
   <a href="https://f3rreira.github.io/DW2A4/Atividades/A4/">
     <img alt="dev.finances" title="dev.finance$" src="https://github.com/F3RREIRA/DW2A4/blob/main/github/preview1.png" width="200px" border-radius="3px">
@@ -132,7 +131,7 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
   </a>
 
 <br>
-<h2>:rocket: Plataformas</h2>
+<h2>:rocket: Platforms</h2>
 <p>
 <a href="https://www.alura.com.br/">
 <img alt="Logo Alura" title="Alura" src="https://github.com/F3RREIRA/Github/blob/main/Alura.png" height="25px"/>
@@ -149,7 +148,7 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
 </p>
 
 <br>
-<h2> :iphone: Contato</h2> 
+<h2> :iphone: Contacts</h2> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rivaildoferreira" alt="Linkedin"> 
@@ -171,10 +170,10 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
 <br>
 <hr>
 <p align="center">
-  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Início</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#-iphone-contato"><b>Contato</b></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#milky_way-sou-desenvolvedor-front-end-e-ui-designer">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Deploys</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#rocket-plataformas">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#-iphone-contato"><b>Contacts</b></a>&nbsp;&nbsp;&nbsp;
 </p>
