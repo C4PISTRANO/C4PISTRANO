@@ -1,6 +1,6 @@
 <p align="center">
-  <a href=""><b>Início</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#%EF%B8%8F-ol%C3%A1-meu-nome-%C3%A9"><b>Início</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -176,5 +176,5 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
   <a href="https://github.com/F3RREIRA#keyboard-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#--publica%C3%A7%C3%B5es-">Publicações</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#rocket-plataformas">Plataformas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href=""><b>Contato</b></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA#-iphone-contato"><b>Contato</b></a>&nbsp;&nbsp;&nbsp;
 </p>
