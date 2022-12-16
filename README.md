@@ -24,7 +24,7 @@
 
 <p>:school: College: Federal Institute of Education, Science and Technology of São Paulo - IFSP.</p>
   
-<p>:chess_pawn: Skills: Programming Logic, Project Management and Creativity.</p>
+<p>:chess_pawn:Skills: Programming Logic, Project Management and Creativity.</p>
 
 
 <h2>:keyboard: Tools</h2>
