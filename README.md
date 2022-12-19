@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://github.com/F3RREIRA#%EF%B8%8F-hi-my-name-is"><b>Home</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#brazil-im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#keyboard-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#earth_americas-publications-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#rocket-platforms">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -174,6 +172,4 @@ To access and test the functionalities of the created pages, just click on the c
   <a href="https://github.com/F3RREIRA#brazil-im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#keyboard-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/F3RREIRA#earth_americas-publications-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#rocket-platforms">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/F3RREIRA#-iphone-contacts"><b>Contacts</b></a>&nbsp;&nbsp;&nbsp;
 </p>
