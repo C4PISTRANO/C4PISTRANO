@@ -164,7 +164,7 @@ To access and test the functionalities of the created pages, just click on the c
 </h3>
 
 
-<br>
+
 <hr>
 <p align="center">
   <a href="https://github.com/F3RREIRA#%EF%B8%8F-hi-my-name-is">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
