@@ -6,14 +6,16 @@
 <hr>
 
 <h2>
-✌️ Hi, my name is
+✌️ Hi, my name is <b>Raphael Capistrano</b>
 </h2>
 
+<!--
 <p align=center>
 <a href="https://github.com/C4PISTRANO">
 <img alt="LOGO RAPHAEL C4PISTRANO" title="raphael capistrano" src="https://github.com/C4PISTRANO/Portifolio/blob/main/github/logo.png" width="500px" align="center"/>
 </p>
 </a>
+-->
 
 <h2>:brazil: I'm Front-end Developer and UI Designer from Brazil. </h2>
 
@@ -110,6 +112,7 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 </a>
 </p>
 
+<!--
 <h2>:earth_americas: Publications </h2>
 
 To access and test the functionalities of the created pages, just click on the corresponding image:
@@ -126,6 +129,7 @@ To access and test the functionalities of the created pages, just click on the c
   <a href="https://C4PISTRANO.github.io/DW2A4/Página de links">
     <img alt="Página de Links" title="Página de Links" src="https://github.com/C4PISTRANO/DW2A4/blob/main/Página de links/src/img/preview.png" width="200px">
   </a>
+-->
 
 <br>
 <h2>:rocket: Platforms</h2>
