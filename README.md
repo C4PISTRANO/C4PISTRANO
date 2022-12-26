@@ -6,7 +6,7 @@
 <hr>
 
 <h2>
-✌️ Hi, my name is <b>Raphael Capistrano</b>
+✌️ Hi, my name is <b><color=red>Raphael</color> Capistrano</b>
 </h2>
 
 <!--
@@ -48,12 +48,16 @@
 <a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
 <img alt="Logo Linguagem Java" title="Java" src="https://github.com/C4PISTRANO/Github/blob/main/LogoJava.png" height="50px"/>
 </a>
+
+
+<!--
 <a href="https://www.php.net/manual/pt_BR/intro-whatis.php">
 <img alt="Logo Linguagem PHP" title="PHP" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPHP.png" height="50px"/>
 </a>
 <a href="https://www.devmedia.com.br/python-tutorial/33274#:~:text=Python%20%C3%A9%20uma%20linguagem%20de,C%2B%2B%2C%20Java%20e%20C%23.">
 <img alt="Logo Linguagem Python" title="Python" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPython.png" height="50px"/>
 </a>
+-->
 </p>
 
 :bookmark_tabs: Frameworks:
@@ -70,6 +74,8 @@
 <a href="https://www.alura.com.br/artigos/react-native?gclid=CjwKCAjw-L-ZBhB4EiwA76YzOTjUlfDmpDTqrYXmxNmMI9Cr9qQcYhyoe1PNoh1ZDILMLtGfgm5z0BoCCYAQAvD_BwE">
 <img alt="Logo Framework React Native" title="React Native" src="https://github.com/C4PISTRANO/Github/blob/main/LogoReactNative.png" height="50px"/>
 </a>
+
+<!--
 <a href="https://pt-br.reactjs.org/tutorial/tutorial.html#what-is-react">
 <img alt="Logo Framework React" title="React" src="https://github.com/C4PISTRANO/Github/blob/main/LogoReact.png" height="50px"/>
 </a>
@@ -79,6 +85,7 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction#o_que_%C3%A9_django">
 <img alt="Logo Framework Django" title="Django" src="https://github.com/C4PISTRANO/Github/blob/main/LogoDjango.png" height="50px"/>
 </a>
+-->
 </p>
 
 :computer: IDEs: 
