@@ -6,7 +6,7 @@
 <hr>
 
 <h2>
-✌️ Hi, my name is <b><span style="color:red">Raphael</span> Capistrano</b>
+✌️ Hi, my name is <span style="color:red">Raphael</span> Capistrano
 </h2>
 
 <!--
