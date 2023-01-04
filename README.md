@@ -82,7 +82,22 @@
 </p>
 
 :art: Designs:
-Paint.NET, Gimp, IcoFX, AniFX, Canva, Figma, Photoshop, CorelDraw
+Gimp, IcoFX, AniFX, Canva, Figma, Photoshop, CorelDraw
+<p>
+<a href="https://www.getpaint.net/">
+<img alt="Logo Paint.NET" title="Paint.NET" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPaintDotNet.png" height="50px"/>
+</a>
+<a href="https://www.gimp.org/">
+<img alt="Logo Gimp" title="Gimp" src="https://github.com/C4PISTRANO/Github/blob/main/LogoGimp.png" height="50px"/>
+</a>
+<a href="https://www.bloodshed.net/">
+<img alt="Logo DevC++" title="DevC++" src="https://github.com/C4PISTRANO/Github/blob/main/LogoDevC++.png" height="50px"/>
+</a>
+<a href="https://notepad-plus-plus.org/">
+<img alt="Logo Notepad++" title="Notepad++" src="https://github.com/C4PISTRANO/Github/blob/main/LogoNotepad++.png" height="50px"/>
+</a>
+</p>
+
 
 :information_source: Database:
 MariaDB, PostgreSQL, MySQL
