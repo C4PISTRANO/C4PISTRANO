@@ -75,8 +75,8 @@ DevC++ , Notepad++, Visualg, IntelliJ
 <a href="https://eclipseide.org/">
 <img alt="Logo Eclipse IDE" title="Eclipse IDE" src="https://github.com/C4PISTRANO/Github/blob/main/LogoEclipse.png" height="50px"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction#o_que_%C3%A9_django">
-<img alt="Logo Framework Django" title="Django" src="https://github.com/C4PISTRANO/Github/blob/main/LogoDjango.png" height="50px"/>
+<a href="https://www.bloodshed.net/">
+<img alt="Logo DevC++" title="DevC++" src="https://github.com/C4PISTRANO/Github/blob/main/LogoDevC++.png" height="50px"/>
 </a>
 </p>
 
