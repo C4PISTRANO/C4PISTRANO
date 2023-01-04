@@ -78,6 +78,9 @@ DevC++ , Notepad++, Visualg, IntelliJ
 <a href="https://www.bloodshed.net/">
 <img alt="Logo DevC++" title="DevC++" src="https://github.com/C4PISTRANO/Github/blob/main/LogoDevC++.png" height="50px"/>
 </a>
+<a href="https://notepad-plus-plus.org/">
+<img alt="Logo Notepad++" title="Notepad++" src="https://github.com/C4PISTRANO/Github/blob/main/LogoNotepad++.png" height="50px"/>
+</a>
 </p>
 
 :art: Designs:
