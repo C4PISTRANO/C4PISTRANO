@@ -66,8 +66,6 @@
 </p>
 
 :computer: IDEs:
-
-DevC++ , Notepad++, Visualg, IntelliJ
 <p>
 <a href="https://code.visualstudio.com/">
 <img alt="Logo Visual Studio Code" title="Visual Studio Code" src="https://github.com/C4PISTRANO/Github/blob/main/LogoVSCode.png" height="50px"/>
