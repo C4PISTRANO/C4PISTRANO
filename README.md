@@ -88,8 +88,20 @@
 -->
 </p>
 
-:computer: IDEs: 
-Visual Studio Code, Eclipse, DevC++ , Notepad++, Visualg, IntelliJ
+:computer: IDEs:
+
+, Eclipse, DevC++ , Notepad++, Visualg, IntelliJ
+<p>
+<a href="https://code.visualstudio.com/">
+<img alt="Logo Visual Studio Code" title="Visual Studio Code" src="https://github.com/C4PISTRANO/Github/blob/main/LogoVSCode.png" height="50px"/>
+</a>
+<a href="https://blog.betrybe.com/framework-de-programacao/spring-boot-tudo-sobre/#1">
+<img alt="Logo Framework Spring Boot" title="Spring Boot" src="https://github.com/C4PISTRANO/Github/blob/main/LogoSpring.png" height="50px"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Introduction#o_que_%C3%A9_django">
+<img alt="Logo Framework Django" title="Django" src="https://github.com/C4PISTRANO/Github/blob/main/LogoDjango.png" height="50px"/>
+</a>
+</p>
 
 :art: Designs:
 Paint.NET, Gimp, IcoFX, AniFX, Canva, Figma, Photoshop, CorelDraw
