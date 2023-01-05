@@ -189,7 +189,8 @@ To access and test the functionalities of the created pages, just click on the c
 <hr>
 <p align="center">
   <a href="https://github.com/C4PISTRANO#%EF%B8%8F-hi-my-name-is">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/C4PISTRANO#brazil-im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/C4PISTRANO/C4PISTRANO/blob/main/README.md#im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO#keyboard-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+https://github.com/C4PISTRANO/C4PISTRANO/blob/main/README.md#im-front-end-developer-and-ui-designer-from-brazil-
