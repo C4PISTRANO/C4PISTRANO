@@ -11,7 +11,7 @@
 
 <p align=center>
 <a href="https://github.com/C4PISTRANO">
-<img alt="Logo Raphael Capistrano" title="RAPHAEL C4PISTRANO" src="https://github.com/C4PISTRANO/Github/blob/main/LogoRaphaelCapistrano.png" width="600px" align="center"/>
+<img alt="Logo Raphael Capistrano" title="RAPHAEL C4PISTRANO" src="https://github.com/C4PISTRANO/Github/blob/main/LogoRaphaelCapistrano.png"  align="center"/>
 </p>
 </a>
 
