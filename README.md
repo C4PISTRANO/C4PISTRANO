@@ -9,14 +9,16 @@
 ✌🏻 Hi, my name is
 </h2>
 
-<p align=center>
+<p>
 <a href="https://github.com/C4PISTRANO">
 <img alt="Logo Raphael Capistrano" title="RAPHAEL C4PISTRANO" src="https://github.com/C4PISTRANO/Github/blob/main/BannerRaphaelCapistrano.png"  align="center"/>
-</p>
 </a>
-
+</p>
+  
 <h2>
-<img alt="Brazil Flag" title="Brazil" src="https://github.com/C4PISTRANO/Github/blob/main/Emojis/Brazil.png" height="25px"/>
+<a href="#">
+<img alt="Brazil Flag" title="" src="https://github.com/C4PISTRANO/Github/blob/main/Emojis/Brazil.png" height="30px"/>
+</a>
 I'm Front-end Developer and UI Designer from Brazil. 
 </h2>
 
