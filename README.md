@@ -15,7 +15,8 @@
 </p>
 </a>
 
-<h2><img alt="Brazil Flag" title="" src="https://github.com/C4PISTRANO/Github/blob/main/Emojis/Brazil.png" height="25px"/>
+<h2>
+<img alt="Brazil Flag" title="Brazil" src="https://github.com/C4PISTRANO/Github/blob/main/Emojis/Brazil.png" height="25px"/>
 I'm Front-end Developer and UI Designer from Brazil. 
 </h2>
 
@@ -192,5 +193,3 @@ To access and test the functionalities of the created pages, just click on the c
   <a href="https://github.com/C4PISTRANO/C4PISTRANO/blob/main/README.md#im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO#keyboard-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-
-https://github.com/C4PISTRANO/C4PISTRANO/blob/main/README.md#im-front-end-developer-and-ui-designer-from-brazil-
