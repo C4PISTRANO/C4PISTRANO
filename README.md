@@ -6,16 +6,14 @@
 <hr>
 
 <h2>
-✌️ Hi, my name is <span style="color:red">Raphael</span> Capistrano
+✌️ Hi, my name is
 </h2>
 
-<!--
 <p align=center>
 <a href="https://github.com/C4PISTRANO">
-<img alt="LOGO RAPHAEL C4PISTRANO" title="raphael capistrano" src="https://github.com/C4PISTRANO/Portifolio/blob/main/github/logo.png" width="500px" align="center"/>
+<img alt="LOGO RAPHAEL C4PISTRANO" title="raphael capistrano" src="https://github.com/C4PISTRANO/Github/blob/main/LogoRaphaelCapistrano.png" width="600px" align="center"/>
 </p>
 </a>
--->
 
 <h2>:brazil: I'm Front-end Developer and UI Designer from Brazil. </h2>
 
