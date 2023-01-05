@@ -6,7 +6,7 @@
 <hr>
 
 <h2>
-✌️ Hi, my name is
+✌🏻 Hi, my name is
 </h2>
 
 <p align=center>
