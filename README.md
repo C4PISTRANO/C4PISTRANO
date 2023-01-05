@@ -15,7 +15,9 @@
 </p>
 </a>
 
-<h2>:brazil: I'm Front-end Developer and UI Designer from Brazil. </h2>
+<h2><img alt="Brazil Flag" title="" src="https://github.com/C4PISTRANO/Github/blob/main/Emojis/Brazil.png" height="50px"/>
+I'm Front-end Developer and UI Designer from Brazil. 
+</h2>
 
 <p>:books: Studying: Superior of Technology in Systems Analysis and Development.</p>
 
