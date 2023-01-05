@@ -15,7 +15,7 @@
 </p>
 </a>
 
-<h2><img alt="Brazil Flag" title="" src="https://github.com/C4PISTRANO/Github/blob/main/Emojis/Brazil.png" height="50px"/>
+<h2><img alt="Brazil Flag" title="" src="https://github.com/C4PISTRANO/Github/blob/main/Emojis/Brazil.png" height="25px"/>
 I'm Front-end Developer and UI Designer from Brazil. 
 </h2>
 
