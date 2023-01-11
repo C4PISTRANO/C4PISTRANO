@@ -120,6 +120,19 @@ I'm Front-end Developer and UI Designer from Brazil.
 
 :cloud: Cloud:
 AWS, Azure
+<!--
+<p>
+<a href="https://mariadb.com/about-us/">
+<img alt="Logo MariaDB" title="MariaDB" src="https://github.com/C4PISTRANO/Github/blob/main/LogoMariaDatabase.png" height="70px"/>
+</a>
+<a href="https://www.postgresql.org/about/">
+<img alt="Logo Postgre SQL" title="PostgreSQL" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPostgreSQLDatabase.png" height="70px"/>
+</a>
+<a href="https://www.mysql.com/about/">
+<img alt="Logo MySQL" title="MySQL" src="https://github.com/C4PISTRANO/Github/blob/main/LogoMySQLDatabase.png" height="70px"/>
+</a>
+</p>
+-->
 
 :bar_chart: Diagrams:
 Draw.io, Lucidchart
