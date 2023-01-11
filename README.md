@@ -119,8 +119,6 @@ I'm Front-end Developer and UI Designer from Brazil.
 </p>
 
 :cloud: Cloud:
-AWS, Azure
-<!--
 <p>
 <a href="https://aws.amazon.com/what-is-aws/">
 <img alt="Logo AWS" title="AWS" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAWS.png" height="70px"/>
@@ -129,7 +127,6 @@ AWS, Azure
 <img alt="Logo Azure" title="Azure" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAzure.png" height="70px"/>
 </a>
 </p>
--->
 
 :bar_chart: Diagrams:
 Draw.io, Lucidchart
