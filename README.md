@@ -119,17 +119,28 @@ I'm Front-end Developer and UI Designer from Brazil.
 </p>
 
 :cloud: Cloud:
+AWS, Azure
+
 <p>
 <a href="https://aws.amazon.com/what-is-aws/">
-<img alt="Logo AWS" title="AWS" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAWS.png" height="70px"/>
+<img alt="Logo AWS" title="AWS" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAWS.png" height="50px"/>
 </a>
 <a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/">
-<img alt="Logo Azure" title="Azure" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAzure.png" height="70px"/>
+<img alt="Logo Azure" title="Azure" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAzure.png" height="50px"/>
 </a>
 </p>
 
 :bar_chart: Diagrams:
 Draw.io, Lucidchart
+
+<p>
+<a href="https://drawio-app.com/">
+<img alt="Logo Draw.io" title="Draw.io" src="https://github.com/C4PISTRANO/Github/blob/main/LogoDrawio.png" height="50px"/>
+</a>
+<a href="https://www.lucidchart.com/pages/">
+<img alt="Logo Lucidchart" title="Lucidchart" src="https://github.com/C4PISTRANO/Github/blob/main/LogoLucidchart.png" height="50px"/>
+</a>
+</p>
 
 :man_office_worker: Administration:
 Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive, Power BI
