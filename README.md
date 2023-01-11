@@ -28,7 +28,6 @@ I'm Front-end Developer and UI Designer from Brazil.
   
 <p>:chess_pawn:Skills: Programming Logic, Project Management and Creativity.</p>
 
-
 <h2>:keyboard: Tools</h2>
 
 :symbols: Languages: 
@@ -105,7 +104,6 @@ I'm Front-end Developer and UI Designer from Brazil.
 <img alt="Logo AniFX" title="AniFX" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAniFX.png" height="50px"/>
 </a>
 </p>
-
 
 :information_source: Database:
 <p>
