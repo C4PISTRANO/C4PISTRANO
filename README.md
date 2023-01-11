@@ -123,10 +123,10 @@ AWS, Azure
 
 <p>
 <a href="https://aws.amazon.com/what-is-aws/">
-<img alt="Logo AWS" title="AWS" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAWS.png" height="50px"/>
+<img alt="Logo AWS" title="AWS" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAWS1.png" height="50px"/>
 </a>
 <a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/">
-<img alt="Logo Azure" title="Azure" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAzure.png" height="50px"/>
+<img alt="Logo Azure" title="Azure" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAzure1.png" height="50px"/>
 </a>
 </p>
 
