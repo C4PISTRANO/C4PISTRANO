@@ -107,13 +107,13 @@ I'm Front-end Developer and UI Designer from Brazil.
 
 :information_source: Database:
 <p>
-<a href="https://code.visualstudio.com/">
-<img alt="Logo MariaDB" title="MariaDBe" src="https://github.com/C4PISTRANO/Github/blob/main/LogoMariaDatabase.png" height="70px"/>
+<a href="https://mariadb.com/about-us/">
+<img alt="Logo MariaDB" title="MariaDB" src="https://github.com/C4PISTRANO/Github/blob/main/LogoMariaDatabase.png" height="70px"/>
 </a>
-<a href="https://eclipseide.org/">
+<a href="https://www.postgresql.org/about/">
 <img alt="Logo Postgre SQL" title="PostgreSQL" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPostgreSQLDatabase.png" height="70px"/>
 </a>
-<a href="https://www.bloodshed.net/">
+<a href="https://www.mysql.com/about/">
 <img alt="Logo MySQL" title="MySQL" src="https://github.com/C4PISTRANO/Github/blob/main/LogoMySQLDatabase.png" height="70px"/>
 </a>
 </p>
