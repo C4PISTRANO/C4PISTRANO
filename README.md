@@ -122,14 +122,11 @@ I'm Front-end Developer and UI Designer from Brazil.
 AWS, Azure
 <!--
 <p>
-<a href="https://mariadb.com/about-us/">
-<img alt="Logo MariaDB" title="MariaDB" src="https://github.com/C4PISTRANO/Github/blob/main/LogoMariaDatabase.png" height="70px"/>
+<a href="https://aws.amazon.com/what-is-aws/">
+<img alt="Logo AWS" title="AWS" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAWS.png" height="70px"/>
 </a>
-<a href="https://www.postgresql.org/about/">
-<img alt="Logo Postgre SQL" title="PostgreSQL" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPostgreSQLDatabase.png" height="70px"/>
-</a>
-<a href="https://www.mysql.com/about/">
-<img alt="Logo MySQL" title="MySQL" src="https://github.com/C4PISTRANO/Github/blob/main/LogoMySQLDatabase.png" height="70px"/>
+<a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/">
+<img alt="Logo Azure" title="Azure" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAzure.png" height="70px"/>
 </a>
 </p>
 -->
