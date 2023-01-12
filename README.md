@@ -213,7 +213,9 @@ To access and test the functionalities of the created pages, just click on the c
 </p>
 </h3>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=$F3RREIRA)
+<p align="center">
+  <img alt="Visitors" title="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=$C4PISTRANO)" height="25px"/>
+</p>
 
 <hr>
 <p align="center">
