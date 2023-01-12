@@ -171,7 +171,6 @@ I'm Front-end Developer and UI Designer from Brazil.
 </p>
 
 :film_strip: Video:
-Proshow Producer, Kapwing, Movie Maker, After Effects
 <p>
 <a href="http://photopia.nl/proshow/">
 <img alt="Logo ProShow Producer" title="ProShow Producer" src="https://github.com/C4PISTRANO/Github/blob/main/LogoProShow.png" height="50px"/>
