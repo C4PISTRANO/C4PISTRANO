@@ -213,7 +213,7 @@ To access and test the functionalities of the created pages, just click on the c
 </p>
 </h3>
 
-<img src="https://badges.pufler.dev/visits/C4PISTRANO" alt="Visitors badge"/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=$F3RREIRA)
 
 <hr>
 <p align="center">
