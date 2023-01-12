@@ -143,7 +143,26 @@ Draw.io, Lucidchart
 </p>
 
 :man_office_worker: Administration:
-Word, PowerPoint, Excel, Outlook, Teams, Meet, One Drive, Google Drive, Power BI
+<p>
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
+<img alt="Logo Word" title="Word" src="https://github.com/C4PISTRANO/Github/blob/main/LogoWord.png" height="50px"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
+<img alt="Logo PowerPoint" title="PowerPoint" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPowerPoint.png" height="50px"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+<img alt="Logo Excel" title="Excel" src="https://github.com/C4PISTRANO/Github/blob/main/LogoExcel.png" height="50px"/>
+</a>
+<a href="https://www.devmedia.com.br/introducao-ao-typescript/36729">
+<img alt="Logo Outlook" title="Outlook" src="https://github.com/C4PISTRANO/Github/blob/main/LogoOutlook.png" height="50px"/>
+</a>
+<a href="https://www.devmedia.com.br/historia-do-c-c/24029#:~:text=A%20linguagem%20C%20%C3%A9%20o,a%20evolu%C3%A7%C3%A3o%20da%20linguagem%20B.">
+<img alt="Logo Teams" title="Teams" src="https://github.com/C4PISTRANO/Github/blob/main/LogoTeams.png" height="50px"/>
+</a>
+<a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
+<img alt="Logo Meet" title="Meet" src="https://github.com/C4PISTRANO/Github/blob/main/LogoMeet.png" height="50px"/>
+</a>
+
 
 :moyai: 3Ds:
 Zmodeler, Blender, 3D Builder
