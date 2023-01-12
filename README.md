@@ -144,7 +144,7 @@ Draw.io, Lucidchart
 
 :man_office_worker: Administration:
 <p>
-<a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
+<a href="https://www.microsoft.com/en-ww/microsoft-365/word">
 <img alt="Logo Word" title="Word" src="https://github.com/C4PISTRANO/Github/blob/main/LogoWord.png" height="50px"/>
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
