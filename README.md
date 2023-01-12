@@ -176,11 +176,11 @@ Proshow Producer, Kapwing, Movie Maker, After Effects
 <a href="http://photopia.nl/proshow/">
 <img alt="Logo ProShow Producer" title="ProShow Producer" src="https://github.com/C4PISTRANO/Github/blob/main/LogoProShow.png" height="50px"/>
 </a>
-<a href="https://www.kapwing.com/about">
-<img alt="Logo Kapwing" title="Kapwing" src="https://github.com/C4PISTRANO/Github/blob/main/LogoKapwing.png" height="50px"/>
-</a>
 <a href="https://photopia.nl/about-photopia/">
 <img alt="Logo Photopia" title="Photopia" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPhotopia.png" height="50px"/>
+</a>
+<a href="https://www.kapwing.com/about">
+<img alt="Logo Kapwing" title="Kapwing" src="https://github.com/C4PISTRANO/Github/blob/main/LogoKapwing.png" height="50px"/>
 </a>
 </p>
 
