@@ -89,7 +89,7 @@ I'm Front-end Developer and UI Designer from Brazil.
 <img alt="Canva" title="Canva" src="https://github.com/C4PISTRANO/Github/blob/main/LogoCanva.png" height="50px"/>
 </a>
 <a href="https://www.figma.com/">
-<img alt="Logo Figma" title="Figma" src="https://github.com/C4PISTRANO/Github/blob/main/LogoFigma2.png" height="50px"/>
+<img alt="Logo Figma" title="Figma" src="https://github.com/C4PISTRANO/Github/blob/main/LogoFigma.png" height="50px"/>
 </a>
 <a href="https://www.getpaint.net/">
 <img alt="Logo Paint.NET" title="Paint.NET" src="https://github.com/C4PISTRANO/Github/blob/main/LogoPaintDotNet.png" height="50px"/>
