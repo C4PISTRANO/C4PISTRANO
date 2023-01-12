@@ -119,8 +119,6 @@ I'm Front-end Developer and UI Designer from Brazil.
 </p>
 
 :cloud: Cloud:
-AWS, Azure
-
 <p>
 <a href="https://aws.amazon.com/what-is-aws/">
 <img alt="Logo AWS" title="AWS" src="https://github.com/C4PISTRANO/Github/blob/main/LogoAWS.png" height="50px"/>
@@ -131,8 +129,6 @@ AWS, Azure
 </p>
 
 :bar_chart: Diagrams:
-Draw.io, Lucidchart
-
 <p>
 <a href="https://drawio-app.com/">
 <img alt="Logo Draw.io" title="Draw.io" src="https://github.com/C4PISTRANO/Github/blob/main/LogoDrawio.png" height="50px"/>
@@ -165,7 +161,14 @@ Draw.io, Lucidchart
 
 
 :moyai: 3Ds:
-Zmodeler, Blender, 3D Builder
+<p>
+<a href="https://www.zmodeler3.com/">
+<img alt="Logo ZModeler" title="ZModeler" src="https://github.com/C4PISTRANO/Github/blob/main/LogoZModeler.png" height="50px"/>
+</a>
+<a href="https://www.blender.org/about/">
+<img alt="Logo Blender" title="Blender" src="https://github.com/C4PISTRANO/Github/blob/main/LogoBlender.png" height="50px"/>
+</a>
+</p>
 
 :film_strip: Video:
 Proshow Producer, Kapwing, Movie Maker, After Effects
