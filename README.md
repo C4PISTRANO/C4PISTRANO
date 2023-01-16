@@ -172,7 +172,7 @@ I'm Front-end Developer and UI Designer from Brazil.
 
 :film_strip: Video:
 <p>
-<a href="http://photopia.nl/proshow/">
+<a href="https://www.all-things-photography.com/pro-show-producer/">
 <img alt="Logo ProShow Producer" title="ProShow Producer" src="https://github.com/C4PISTRANO/Github/blob/main/LogoProShow.png" height="50px"/>
 </a>
 <a href="https://photopia.nl/about-photopia/">
