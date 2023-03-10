@@ -209,6 +209,24 @@ To access and test the functionalities of the created pages, just click on the c
   </a>
 -->
 
+## 🌎 Publications
+
+Para acessar e testar as funcionalidades das páginas criadas, basta clicar na imagem correspondente:
+
+<p align="center">
+  <a href="https://c4pistrano.github.io/DW2A4/Atividades/A4/">
+    <img alt="dev.finances" title="dev.finance$" src="https://c4pistrano.github.io/DW2A4/github/preview1.png" width="200px" border-radius="3px">
+  </a>
+  <a href="https://c4pistrano.github.io/DW2A4/Atividades/A5">
+    <img alt="Form.dev" title="Form.dev" src="https://c4pistrano.github.io/DW2A4/github/preview2.png" width="200px">
+  </a>
+  <a href="https://c4pistrano.github.io/DW2A4/Atividades/4A/">
+    <img alt="Pesquisa.Covid" title="Pesquisa.Covid" src="https://c4pistrano.github.io/DW2A4/github/preview3.png" width="200px">
+  </a>
+  <a href="https://c4pistrano.github.io/DW2A4/Página de links">
+    <img alt="Página de Links" title="Página de Links" src="https://c4pistrano.github.io/DW2A4/Página de links/src/img/preview.png" width="200px">
+  </a>
+
 <br>
 <h2>:rocket: Platforms</h2>
 <p>
