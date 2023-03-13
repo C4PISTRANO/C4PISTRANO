@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/C4PISTRANO#earth_americas-publications-">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/C4PISTRANO#-publications">Publications</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO#rocket-platforms">Platforms</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO#-iphone-contacts">Contacts</a>&nbsp;&nbsp;&nbsp;
 </p>
