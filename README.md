@@ -211,8 +211,7 @@ To access and test the functionalities of the created pages, just click on the c
 
 ## 🌎 Publications
 
-Para acessar e testar as funcionalidades das páginas criadas, basta clicar na imagem correspondente:
-
+To access and test the functionalities of the created pages, just click on the corresponding image:
 <p align="center">
   <a href="https://github.com/C4PISTRANO/DW2A4/tree/main/Atividades/A4">
     <img alt="dev.finances" title="dev.finance$" src="https://c4pistrano.github.io/DW2A4/github/preview1.png" width="200px" border-radius="3px">
