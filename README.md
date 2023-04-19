@@ -264,7 +264,7 @@ To access and test the functionalities of the created pages, just click on the c
 
 <hr>
 <p align="center">
-  <a href="https://github.com/C4PISTRANO#-hi-my-name-is">&nbsp;&nbsp;&nbsp;Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/C4PISTRANO#-hi-my-name-is">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO#im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO#keyboard-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO">
