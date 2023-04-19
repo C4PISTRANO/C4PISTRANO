@@ -268,6 +268,6 @@ To access and test the functionalities of the created pages, just click on the c
   <a href="https://github.com/C4PISTRANO#im-front-end-developer-and-ui-designer-from-brazil-">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO#keyboard-tools">Tools</a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C4PISTRANO">
-  <img alt="Visitors" title="Visitors" align="middle" src="https://visitor-badge.laobi.icu/badge?page_id=$C4PISTRANO)" height="25px"/>
+  <img alt="Visitors" title="Visitors" align="top" src="https://visitor-badge.laobi.icu/badge?page_id=$C4PISTRANO)" height="25px"/>
   </a>
 </p>
