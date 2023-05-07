@@ -11,7 +11,7 @@
 
 <p>
 <a href="https://raphaelcapistrano.dev.br">
-<img alt="Logo Raphael Capistrano" title="RAPHAEL C4PISTRANO" src="https://github.com/C4PISTRANO/Github/blob/main/Logo.png"  align="center"/>
+<img alt="Logo Raphael Capistrano" title="RAPHAEL C4PISTRANO" src="https://github.com/C4PISTRANO/Github/blob/main/BannerRaphaelCapistrano.png"  align="center"/>
 </a>
 </p>
   
