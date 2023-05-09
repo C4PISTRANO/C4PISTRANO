@@ -251,7 +251,7 @@ To access and test the functionalities of the created pages, just click on the c
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaelcapistrano"/> 
 </a>
 
-<!--<a href="https://www.linkedin.com/in/raphaelcapistrano" alt="Hotmail"> 
+<!--<a href="https://www.linkedin.com/in/raphaelcapistrano" alt="E-mail"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=hotmail&logoColor=white&link=https://www.linkedin.com/in/raphaelcapistrano"/>
 </a>
 
