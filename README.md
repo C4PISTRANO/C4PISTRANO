@@ -47,9 +47,6 @@ I'm Front-end Developer and UI Designer from Brazil.
 <a href="https://www.devmedia.com.br/historia-do-c-c/24029#:~:text=A%20linguagem%20C%20%C3%A9%20o,a%20evolu%C3%A7%C3%A3o%20da%20linguagem%20B.">
 <img alt="Logo Linguagem C" title="C" src="https://github.com/C4PISTRANO/Github/blob/main/LogoC.png" height="50px"/>
 </a>
-<a href="https://www.java.com/pt-BR/download/help/whatis_java.html">
-<img alt="Logo Linguagem Java" title="Java" src="https://github.com/C4PISTRANO/Github/blob/main/LogoJava.png" height="50px"/>
-</a>
 
 :bookmark_tabs: Frameworks:
 <p>
