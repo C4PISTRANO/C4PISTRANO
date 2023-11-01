@@ -6,7 +6,7 @@
 <hr>
 
 <h2>
-✌🏻 Hi, my name is
+✌🏻 Hi, my name is 
 </h2>
 
 <p>
@@ -33,7 +33,7 @@ I'm Front-end Developer and UI Designer from Brazil.
 :symbols: Languages: 
 <p>
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics">
-<img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/C4PISTRANO/Github/blob/main/LogoHTML.png" height="50px"/>
+<img alt="Logo Linguagem HTML" title="HTML" src="https://github.com/C4PISTRANO/Github/blob/main/LogoHTML.png" height="50px" style="tra/>
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps/What_is_CSS">
 <img alt="Logo Linguagem CSS" title="CSS" src="https://github.com/C4PISTRANO/Github/blob/main/LogoCSS.png" height="50px"/>
